@@ -7,9 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshiqueAlikrz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -17,7 +14,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ashique ali & am an Indian <br><br>- 🔭 I’m working as software developer trainee- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
