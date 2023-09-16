@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm ashique ali & am an Indian <br><br> - 🔭 I’m working as software developer trainee  <br> - 📚  I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ashique ali & am an Indian <br><br> - 🔭 I’m working as software developer trainee...  <br> - 📚  I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
