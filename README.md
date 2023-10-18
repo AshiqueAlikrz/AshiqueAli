@@ -20,7 +20,6 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
