@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Ashique Ali krz & am an Indian <br><br> - 🔭 I’m working as software developer trainee...  <br> - 📚  I'm currently learning next js,typescript after completing MERN Stack.<br>
+<p align="left">I'm Ashique Ali  <br><br> - 🔭 I’m working as software developer trainee...  <br> 
 
 ###
 
