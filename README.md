@@ -13,21 +13,24 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<hr>
+<h3 align="left">About Me</h3>
 
 ###
 
 <p align="left">I'm a self-taught MERN stack developer with a passion for building robust and scalable web applications. I love the process of taking an idea and turning it into a fully-functional product. My background in programming and inquisitiveness to learn new trends have given me the skills and knowledge to build high-quality applications that meet the needs of users.<br> 
 
 ###
+<hr>
 <h3 align="left">Skills</h3>
 <ul>
 <li>Front-end: React, Redux, HTML, CSS, JavaScript, Bootstrap</li>
 <li>Back-end: Node.js, Express.js, MongoDB, Mongoose</li>
 <li>Tools: Git, npm, VS Code, Postman</li>
 </ul>
-<h3 align="left">Contact Me</h3>
 
+<hr>
+<h3 align="left">Contact Me</h3>
 <p align="left">Feel free to reach out to me if you have any questions or if you're interested in working together. You can find me on LinkedIn or Twitter.<br><br>
 
 
