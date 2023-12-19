@@ -17,38 +17,19 @@
 
 ###
 
-<p align="left">I'm Ashique Ali  <br><br> - 🔭 I’m working as software developer trainee...  <br> 
+<p align="left">I'm a self-taught MERN stack developer with a passion for building robust and scalable web applications. I love the process of taking an idea and turning it into a fully-functional product. My background in programming and inquisitiveness to learn new trends have given me the skills and knowledge to build high-quality applications that meet the needs of users.<br> 
 
 ###
+<h3 align="left">Skills</h3>
+<ul>
+<li>Front-end: React, Redux, HTML, CSS, JavaScript, Bootstrap</li>
+<li>Back-end: Node.js, Express.js, MongoDB, Mongoose</li>
+<li>Tools: Git, npm, VS Code, Postman</li>
+</ul>
+<h3 align="left">Contact Me</h3>
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">Feel free to reach out to me if you have any questions or if you're interested in working together. You can find me on LinkedIn or Twitter.<br><br>
 
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
